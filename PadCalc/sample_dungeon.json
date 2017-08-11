@@ -1,0 +1,143 @@
+{  
+   "dungeonId":2150,
+   "dungeonName":"Myr Descended!",
+   "subDungeonName":"Time Boundaries Dragon - Mythical Plus",
+   "floors":[  
+      {  
+         "floorNum":"Floor 1",
+         "enemies":[  
+            {  
+               "monsterId":796,
+               "loots":[  
+                  796
+               ]
+            },
+            {  
+               "monsterId":1468,
+               "loots":[  
+                  1468
+               ]
+            },
+            {  
+               "monsterId":2725,
+               "loots":[  
+                  2725
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 2",
+         "enemies":[  
+            {  
+               "monsterId":1594,
+               "loots":[  
+                  1594
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 3",
+         "enemies":[  
+            {  
+               "monsterId":2580,
+               "loots":[  
+                  2580
+               ]
+            },
+            {  
+               "monsterId":2644,
+               "loots":[  
+                  2644
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 4",
+         "enemies":[  
+            {  
+               "monsterId":1752,
+               "loots":[  
+                  1751
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 5",
+         "enemies":[  
+            {  
+               "monsterId":2299,
+               "loots":[  
+                  2299
+               ]
+            },
+            {  
+               "monsterId":2300,
+               "loots":[  
+                  2300
+               ]
+            },
+            {  
+               "monsterId":2301,
+               "loots":[  
+                  2301
+               ]
+            },
+            {  
+               "monsterId":2302,
+               "loots":[  
+                  2302
+               ]
+            },
+            {  
+               "monsterId":2303,
+               "loots":[  
+                  2303
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 6",
+         "enemies":[  
+            {  
+               "monsterId":1624,
+               "loots":[  
+
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 7",
+         "enemies":[  
+            {  
+               "monsterId":2967,
+               "loots":[  
+
+               ]
+            }
+         ]
+      },
+      {  
+         "floorNum":"Floor 8",
+         "enemies":[  
+            {  
+               "monsterId":2968,
+               "loots":[  
+                  2967
+               ]
+            }
+         ]
+      }
+   ],
+   "invades":[  
+
+   ],
+   "randomEnemies":[  
+
+   ]
+}

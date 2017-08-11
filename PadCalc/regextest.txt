@@ -1,0 +1,28 @@
+Get x1.5 experience after a battle. Get x2 coins after a battle.
+Get x(\d|\d.\d) experience after a battle.
+Get x(\d|\d.\d) coins after a battle.
+
+Did It Your Way, 11.95 The History of Scotland, 14.50, Learn Calculus in One Day, 29.95
+(\d+(?:\.\d+))
+
+While your HP is 50% or above, a single hit that normally kills you will instead leave you with 1 HP. For the consecutive hits, this skill will only affect the first hit.
+
+ATK x7.7, reduce damage taken by 50% after matching Heal orbs in a cross formation.
+Reduce damage taken by 50% after matching Heal orbs in a cross formation.
+ATK x3 for clearing each Dark orbs in a cross formation.
+ATK x3 for clearing each Wood or Fire orbs in a cross formation.
+ATK x3 for clearing each Light orbs in a cross formation. ATK x3, reduce damage taken by 35% after matching Heal orbs in a cross formation.
+
+No skyfall matches. Fire attribute cards HP x1.5, ATK x2. ATK x6, RCV x6 when reaching 8 combos. ATK x1,  RCV x1 for each additional combo, up to ATK x7, RCV x7 at 9 combos.
+
+
+All attribute cards (?:ATK x(?<atkMulti>[0-9.]+))?(?: |, )?(?:RCV x(?<rcvMulti>[0-9.]+))?(?: |, )?(?:(?<reductionAmount>\d+)% all damage reduction)? when reaching (?<comboCount>\d) combos or above
+All attribute cards (?:ATK x(?<atkMulti>[0-9.]+))?(?: |, )?(?:RCV x(?<rcvMulti>[0-9.]+))?(?: |, )?(?:(?<reductionAmount>\d+)% all damage reduction)? when reaching (?<comboCount>\d) combos
+
+PADX test
+All attribute cards (?:ATK x([0-9.]+))?(?: |, )?(?:RCV x([0-9.]+))?(?: |, )?(?:(\d+)% all damage reduction)? when reaching (\d) combos 
+
+All attribute cards ATK x4 when reaching exactly 7 combos.
+All attribute cards ATK x2 when reaching 3 combos or above.
+
+All attribute cards ATK x2.5, 25% all damage reduction when reaching 6 combos.

@@ -1,0 +1,61 @@
+113, Ifrit
+115, Leviathan
+117, Fafnir
+119, Divinegon
+121, Tiamat
+919, Shaitan
+920, Undine
+921, Sylph
+922, Genie
+923, Thanatos
+440, Gunma
+410, Yggdrasil
+
+388, R/L.Minerva
+389, R/D.Minerva
+1533, A.Minerva, Awoken Minerva
+3238, Re.Minerva, Reincarnated Minerva, Revo Minerva, Minerva
+
+390, B/L.Neptune
+391, B/D.Neptune
+1534, A.Neptune, Awoken Neptune
+3239, Re.Neptune, Reincarnated Neptune, Revo Neptune, Neptune
+
+392, G/L.Ceres
+3089, Ana Ceres, Ceres Ana, Ceres Armor
+393, G/D.Ceres
+1535, A.Ceres, Awoken Ceres
+3240, Re.Ceres, Reincarnated Ceres, Revo Ceres, Ceres
+
+394, L/L.Venus
+395, L/D.Venus
+1928, A.Venus, Awoken Venus
+3269, Re.Venus, Reincarnated Venus, Revo Venus, Venus
+
+394, D/L.Hades
+395, D/D.Hades
+1928, A.Hades, Awoken Hades
+3269, Re.Hades, Reincarnated Hades, Revo Hades, Hades
+
+1350, Zeta Hydra
+
+755, R/L.Hino, R/L.Hino Kagutsuchi
+756, R/D.Hino, R/D.Hino Kagutsuchi
+1726, A.Hino, A.Hino Kagutsuchi , Awoken Hino, Awoken Hino Kagutsuchi
+3271, Re.Hino, Re.Hino Kagutsuchi, Reincarnated Hino, Reincarnated Hino Kagutsuchi, Revo Hino, Revo Hino Kagutsuchi, Hino, Hino Kagutsuchi
+
+986, B/B.Orochi, B/B.Viper Orochi, Unawoken Orochi, Unawoken Viper Orochi, Non-awoken Orochi, Non-awoken Viper Orochi
+1555, B/R.Orochi, B/R.Viper Orochi
+2322, A.Orochi, A.Viper Orochi, Awoken Orochi, Awoken Viper Orochi
+3386, Re.Orochi, Re.Viper Orochi, Reincarnated Orochi, Reincarnated Viper Orochi, Revo Orochi, Revo Viper Orochi, Orochi, Viper Orochi
+
+987, G/G.Susano, G/G.Susano no Mikoto, Unawoken Susano, Unawoken Susano no Mikoto, Non-awoken Susano, Non-awoken Susano no Mikoto
+1556, B/R.Susano, B/R.Susano no Mikoto
+2323, A.Susano, A.Susano no Mikoto, Awoken Susano, Awoken Susano no Mikoto
+3387, Re.Susano, Re.Susano no Mikoto, Reincarnated Susano, Reincarnated Susano no Mikoto, Revo Susano, Revo Susano no Mikoto, Susano, Susano no Mikoto
+
+988, L/L.Amaterasu, L/L.Amaterasu Ohkami, L/L.Ama
+1557, L/R.Amaterasu, L/R.Amaterasu Ohkami, L/R.Ama, Attackerasu, Unawoken Amaterasu, Unawoken Amaterasu Ohkami, Unawoken Amat, Non-awoken Amaterasu, Non-awoken Amaterasu Ohkami, Non-awoken Ama
+2324, A.Amaterasu, A.Amaterasu Ohkami, A.Ama, Awoken Amaterasu, Awoken Amaterasu Ohkami, Awoken Ama
+3388, Re.Amaterasu, Re.Amaterasu Ohkami, Re.Ama, Reincarnated Amaterasu, Reincarnated Amaterasu Ohkami, Reincarnated Ama, Revo Amaterasu, Revo Amaterasu Ohkami, Revo Ama, Amaterasu, Amaterasu Ohkami, Ama
+

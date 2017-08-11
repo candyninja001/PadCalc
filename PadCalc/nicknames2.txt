@@ -1,0 +1,284 @@
+113, Ifrit
+115, Leviathan
+117, Fafnir
+119, Divinegon
+121, Tiamat
+919, Shaitan
+920, Undine
+921, Sylph
+922, Genie
+923, Thanatos
+440, Gunma
+410, Yggdrasil
+1099, Echidna
+
+;Minerva
+388, R/L.?
+389, R/D.?
+1533, A.?, Awoken ?
+3238, Re.?, Reincarnated ?, Revo ?, ?
+
+;Neptune
+390, B/L.?
+391, B/D.?
+1534, A.?, Awoken ?
+3239, Re.?, Reincarnated ?, Revo ?, ?
+
+;Ceres
+392, G/L.?
+3089, Ana ?, ? Ana, ? Armor
+393, G/D.?
+1535, A.?, Awoken ?
+3240, Re.?, Reincarnated ?, Revo ?, ?
+
+;Venus
+394, L/L.?
+395, L/D.?
+1928, A.?, Awoken ?
+3269, Re.?, Reincarnated ?, Revo ?, ?
+
+;Hades
+394, D/L.Hades
+395, D/D.Hades
+1928, A.Hades, Awoken Hades
+3269, Re.Hades, Reincarnated Hades, Revo Hades, Hades
+
+1350, Zeta Hydra
+
+;Hino, Hino Kagutsuchi
+755, R/L.?
+756, R/D.?
+1726, A.?, Awoken ?
+3271, Re.?, Reincarnated ?, Revo ?, ?
+
+;Orochi, Viper Orochi
+986, B/B.?, Unawoken ?, Non-awoken ?
+1555, B/R.?
+2322, A.?, Awoken ?
+3386, Re.?, Reincarnated ?, Revo ?, ?
+
+;Susano, Susano no Mikoto
+987, G/G.?, Unawoken ?, Non-awoken ?, ?
+1556, B/R.?
+2323, A.?, Awoken ?
+3387, Re.?, Reincarnated ?, Revo ?
+
+;Amaterasu, Amaterasu Ohkami, Ama
+988, L/L.?
+1557, L/R.?, Attackerasu, Unawoken ?, Non-awoken ?
+2324, A.?, Awoken ?
+3388, Re.?, Reincarnated ?, Revo ?, ?
+
+;Yomi, Tsukuyomi
+989, D/L.?, Unawoken ?, Non-awoken ?
+990, D/D.?
+2325, A.?, Awoken ?
+3389, Re.?, Reincarnated ?, Revo ?, ?
+
+;Shiva
+1112, R/B.?
+1113, R/D.?
+1954, A.?, Awoken ?
+3241, Re.?, Reincarnated ?, Revo ?, ?
+
+;Lakshmi
+1114, B/G.?
+1115, B/L.?
+1955, A.?, Awoken ?
+3242, Re.?, Reincarnated ?, Revo ?, ?
+
+;Parvati
+1116, G/R.?
+1117, G/L.?
+1956, A.?, Awoken ?
+3243, Re.?, Reincarnated ?, Revo ?, ?
+
+;Indra
+657, Unawoken ?, Non-awoken ?, ?
+1926, L/L.?
+2979, A.?, Awoken ?
+3449, Re.?, Reincarnated ?, Revo ?
+
+;Virtra
+658, Unawoken ?, Non-awoken ?
+1927, D/D.?
+2980, A.?, Awoken ?
+3450, Re.?, Reincarnated ?, Revo ?, ?
+
+;Freyr
+652, R/R.?
+1344, R/L.?
+2392, A.?, Awoken ?
+3482, Re.?, Reincarnated ?, Revo ?, ?
+
+;Idunn&Idunna, I&I
+653, R/R.?
+1345, R/L.?
+2393, A.?, Awoken ?, ?
+
+;Freyja
+654, G/G.?
+1346, G/L.?
+2394, A.?, Awoken ?
+3484, Re.?, Reincarnated ?, Revo ?, ?
+
+;Thor
+655, L/L.?
+1347, L/G.?
+2395, A.?, Awoken ?, ?
+
+;Loki
+656, D/D.?
+1348, D/B.?
+2396, A.?, Awoken ?
+3486, Re.?, Reincarnated ?, Revo ?, ?
+
+1511, Mitsuki
+1512, Ruka
+1513, Kano
+1514, Fuu
+1515, Kurone
+
+487, Gamble Mage
+489, Chrono Turtle
+
+;Horus
+994, R/R.?
+995, R/L.?
+2927, ? Armor, Ace ?, ? Ace, Horace
+2009, A.?, Awoken ?
+3272, Re.?, Reincarnated ?, Revo ?, ?
+
+;Isis
+996, B/B.?
+997, B/L.?
+2010, A.?, Awoken ?, ?
+3383, Re.?, Reincarnated ?, Revo ?
+
+;Bastet
+888, B/L.?
+1613, B/D.?
+2929, ? Armor, Ace ?, ? Ace, Bacetet
+2011, A.?, Awoken ?
+3272, Re.?, Reincarnated ?, Revo ?, ?
+
+;Ra
+998, L/D.?
+999, L/L.?
+2012, A.?, Awoken ?
+3273, Re.?, Reincarnated ?, Revo ?, ?
+
+;Anubis
+1000, D/D.?
+1001, D/L.?
+2013, A.?, Awoken ?
+3385, Re.?, Reincarnated ?, Revo ?, ?
+
+1191, Chiyome
+1192, Hatsume
+1193, Sasuke
+1194, Fuma, Fuma Korato
+1195, Hanzo, Hattori Hanzo
+
+;Ares
+889, R/D.?
+2235, R/L.?
+2747, A.?, Awoken ?, ?
+
+;Hermes
+890, B/L.?
+2236, B/D.
+2748, A.?, Awoken ?
+3493, Re.?, Reincarnated ?, Revo ?, ?
+
+;Artemis
+891, G/L.?
+2237, G/D.?
+2749, A.?, Awoken ?
+3494, Re.?, Reincarnated ?, Revo ?, ?
+
+;Apollo
+892, L/R.?
+2238, L/B.?
+2748, A.?, Awoken ?
+3493, Re.?, Reincarnated ?, Revo ?, ?
+
+;Persephone
+893, D/R.?
+2239, D/G.?
+2751, A.?, Awoken ?
+3496, Re.?, Reincarnated ?, Revo ?, ?
+
+2006, Goemon
+
+;Uriel
+2498, R/R.?, ?
+3712, A.?, Awoken ?
+
+;Gabriel
+2499, B/B.?, ?
+3713, A.?, Awoken ?
+
+;Michael
+2500, G/G.?, ?
+3714, A.?, Awoken ?
+
+;Raphael
+2501, ?, L/R.?
+
+;Lucifer
+2502, D/B.?
+
+;Belial
+2503, R/R.?
+3531, A.?, Awoken ?, ?
+
+;Amon
+2504, B/L.?
+3532, A.?, Awoken ?, ?
+
+2894, Cauchemar
+
+;Astaroth
+1259, G/G.?
+1260, G/D.?
+2505, A.?, Awoken ?
+3507, Re.?, Reincarnated ?, Revo ?, ?
+
+;Baal
+2506, L/D.?
+3533, A.?, Awoken ?, ?
+
+;ALucifer, Archdemon Lucifer
+1552, D/R.?
+1553, D/D.?
+2507, A?, A.?, Awoken ?, ?
+
+;Leilan
+1262, R/G.?
+1263, R/L.?
+2073, A.?, Awoken ?
+3487, Re.?, Reincarnated ?, Revo ?, ?
+
+;Karin
+1264, B/G.?
+1265, B/D.?
+2074, A.?, Awoken ?
+3488, Re.?, Reincarnated ?, Revo ?, ?
+
+;Meimei
+1266, G/D.?
+1267, G/L.?
+2075, A.?, Awoken ?
+3489, Re.?, Reincarnated ?, Revo ?, ?
+
+;Sakuya
+2077, L/G.?
+2389, A.?, Awoken ?
+3490, Re.?, Reincarnated ?, Revo ?, ?
+
+;Haku
+1268, D/R.?
+1269, D/D.Haku
+2076, A.?, Awoken ?
+3491, Re.?, Reincarnated ?, Revo ?, ?
